@@ -1,0 +1,12 @@
+@font-face{
+    font-family: "sub_font";
+    src: url(../font/NEXON\ Lv1\ Gothic\ Low\ OTF.otf);
+}
+@font-face{
+    font-family: "sub_Bold_font";
+    src: url(../font/NEXON\ Lv1\ Gothic\ Low\ OTF\ Bold.otf);
+}
+@font-face{
+    font-family: "sub_Lighr_font";
+    src: url(../font/NEXON\ Lv1\ Gothic\ Low\ OTF\ Light.otf);
+}
